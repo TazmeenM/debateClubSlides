@@ -1,6 +1,6 @@
 # debateClubSlides
 
-I made some lessons for my school's debate club, but they can be used as learning tools for others. 
+I made some lessons for my school's debate club, but they can be used as learning tools for others. To access these slideshows, download them either from this repository or from the links below:
 
 Slideshow 1:
 
